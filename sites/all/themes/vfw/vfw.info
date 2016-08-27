@@ -1,0 +1,24 @@
+name = VFW
+description = A responsive theme customized for the VFW website
+package = Core
+version = VERSION
+core = 7.x
+
+
+
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/style.css
+
+
+scripts[] = js/bootstrap.min.js
+scripts[] = js/npm.js
+
+
+regions[header] = 'Header'
+regions[primary_nav] = 'Primary Nav'
+regions[content] = 'Content'
+regions[sidebar_first] = 'Sidebar first'
+regions[footer] = 'Footer'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
