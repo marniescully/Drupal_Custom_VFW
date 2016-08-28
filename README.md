@@ -1,1 +1,3 @@
 # Drupal_Custom_VFW
+
+I developed two Drupal themes for the Harvard Extension School Course "Intro to Web Content Management Systems Site Development" http://www.extension.harvard.edu/academics/courses/introduction-web-content-management-systems-site-development/24048?_ga=1.137611504.196943689.1456622945 . I also developed the same website in Wordpress and Joomla. The intention was to demonstrate the ability to develop solutions on each CMS platform with the modules and extensions specific to each. I had permission from the Palmerton United Veterans Organization to utilize their content but they opted not to choose a CMS solution ultimately. 
